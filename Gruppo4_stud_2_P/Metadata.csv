@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 16 Pro,1794213020240,2026-11-09_08-30-20,Europe/Rome,ios,1.68.1,74756edf-7859-4a76-a49a-d8727f9b7388,Accelerometer|Gyroscope|Orientation|Magnetometer|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10,false,26.6.2
